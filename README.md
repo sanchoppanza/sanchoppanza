@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/IMG_4947.png" alt="hello">
+  <img src="assets/IMG_4946.png" alt="hello">
 </p>
+
+<img width="450" src="placeholder" alt=":p?" align="right" width="400" />    
 
 <!--
 **sanchoppanza/sanchoppanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

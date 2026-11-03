@@ -6,7 +6,15 @@
   <img src="assets/IMG_4946.png" alt="hello">
 </p>
 
-<img width="450" src="placeholder" alt=":p?" align="right" width="400" />    
+<p align="center">
+  <img src="assets/IMG_4947.png" alt="hello">
+</p>
+
+<p align="left">
+  <img width="150" src="assets/IMG_4954.jpeg" alt=":p?" height=“150”/>    
+</p>
+
+  ![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
 
 <!--
 **sanchoppanza/sanchoppanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

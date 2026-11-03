@@ -11,10 +11,17 @@
 </p>
 
 <p align="left">
-  <img width="150" src="assets/IMG_4954.jpeg" alt=":p?" height=“150”/>    
+  <img width="150" src="assets/IMG_4958.png" alt=":p?" height=“150”/>    
 </p>
 
   ![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
+
+<p align="left"> 
+ $\color{#ff0000}\textsf{sylvia / sancho}$
+  
+<p align="center">  
+  
+<p align="center">   
 
 <!--
 **sanchoppanza/sanchoppanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

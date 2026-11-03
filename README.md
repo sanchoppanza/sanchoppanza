@@ -28,8 +28,7 @@
   ![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
 
 
-<p align="center"> [新book](https://bloodhail.atabook.org)  ${\textsf{\color{#cfd1d0} —}}$ [more info](https://github.com/yurinpd)
-</p>
+IM TIRED OF DOING THIS GOD DAMN README SO ILL LEAVE IT LIKE THIS
 
 <p align="center">
   <img src="assets/IMG_4946.png" alt="hello">

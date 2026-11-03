@@ -10,30 +10,31 @@
   <img src="assets/IMG_4947.png" alt="hello">
 </p>
 
-<p align="left">
-  <img width="150" src="assets/IMG_4958.png" alt=":p?" height=“150”/>    
+<p align="right">
+  <img width="150" src="assets/IMG_4958.png" alt=":pfp?" height=“150”/>   
 </p>
+
+<p align="center">
+  <img src="assets/IMG_3801.gif" alt="First Image" />
+  <img src="assets/IMG_4962.png" alt="Second Image" />
+</p>
+
+<p align=“right”>
+  $\color{#ff0000}\textsf{sylvia / sancho}$
+</p>
+
+<p align="right"><code>she/they</code></p>
 
   ![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
 
-<p align="left"> 
- $\color{#ff0000}\textsf{sylvia / sancho}$
-  
-<p align="center">  
-  
-<p align="center">   
 
-<!--
-**sanchoppanza/sanchoppanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> [新book](https://bloodhail.atabook.org)  ${\textsf{\color{#cfd1d0} —}}$ [more info](https://github.com/yurinpd)
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/IMG_4946.png" alt="hello">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="assets/IMG_4947.png" alt="hello">
+</p>

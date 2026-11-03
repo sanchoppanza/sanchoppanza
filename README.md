@@ -2,6 +2,10 @@
   <img src="assets/IMG_4944.gif" width="669" height="102" alt="hello">
 </p>
 
+<p align="center">
+  <img src="assets/IMG_4947.png" alt="hello">
+</p>
+
 <!--
 **sanchoppanza/sanchoppanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

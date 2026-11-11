@@ -2,38 +2,28 @@
   <img src="assets/IMG_4944.gif" width="669" height="102" alt="hello">
 </p>
 
-<p align="center">
-  <img src="assets/IMG_4946.png" alt="hello">
-</p>
+![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
 
-<p align="center">
-  <img src="assets/IMG_4947.png" alt="hello">
-</p>
+![](assets/IMG_5272.gif) 
 
-<p align="right">
-  <img width="150" src="assets/IMG_4958.png" alt=":pfp?" height=“150”/>   
-</p>
+![](assets/IMG_5273.gif) 
 
-<p align="center">
-  <img src="assets/IMG_3801.gif" alt="First Image" />
-  <img src="assets/IMG_4962.png" alt="Second Image" />
-</p>
+![](assets/IMG_5274.gif) 
 
-<p align=“right”>
-  $\color{#ff0000}\textsf{sylvia / sancho}$
-</p>
+![](assets/IMG_5275.gif) 
 
-<p align="right"><code>she/they</code></p>
+![girl](assets/IMG_5277.gif)
 
-  ![](https://komarev.com/ghpvc/?username=sanchoppanza&color=grey)
+![](assets/IMG_5278.gif) 
 
+![](assets/IMG_5279.gif)
 
-IM TIRED OF DOING THIS GOD DAMN README SO ILL LEAVE IT LIKE THIS
+![](assets/IMG_5280.gif)
 
-<p align="center">
-  <img src="assets/IMG_4946.png" alt="hello">
-</p>
+![](assets/IMG_5284.gif)
 
-<p align="center">
-  <img src="assets/IMG_4947.png" alt="hello">
-</p>
+![](assets/IMG_5283.gif) 
+
+![](assets/IMG_5285.gif) 
+
+![](assets/IMG_5286.gif) 

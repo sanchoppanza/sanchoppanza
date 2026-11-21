@@ -8,8 +8,7 @@ hi my name is sylvia
 
 <details>
   <summary>titles</summary>
-  [walk of fame](https://github.com/pt-walk-of-fame)
-  [piddlesjet](https://github.com/piddlesjet)
+  [walk of fame](https://github.com/pt-walk-of-fame) [piddlesjet](https://github.com/piddlesjet)
   [every-pony](https://github.com/every-pony)
   [pony-town-nominations](https://github.com/pony-town-nominations)
   [ponytowns-rewards](https://github.com/ponytowns-rewards)
